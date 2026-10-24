@@ -1,10 +1,7 @@
 # Students Database CRUD API
 
-A Python backend for managing student records, built with **FastAPI** and **SQLite**,
-for the EWB Edu Tech internship assignment. Includes the optional **Ollama** bonus
-(natural-language questions about the data).
-
-All data in this project is **dummy data**. Do not commit real student information.
+A Python backend for managing student records, built with **FastAPI** and **SQLite**
+All data in this project is **dummy data**.
 
 ## Features
 
